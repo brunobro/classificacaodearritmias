@@ -28,9 +28,9 @@ GUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica. 11. ed. Rio de Janeiro
 
 GOLDBERGER, A. L.; AMARAL, L. A. N.; GLASS, L.; HAUSDORFF, J. M.; IVANOV, P. C.; MARK, R. G.; MIETUS, J. E.; MOODY, G. B.; PENG, C.-K.; STANLEY, H. E. PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation, v. 101, n. 23, p. e215–e220, 2000. Circulation Electronic Pages: http://circ.ahajournals.org/content/1... PMID:1085218.
 
-OLIVEIRA, B. R. de; ABREU, C. C. E. de; DUARTE, M. A. Q.; FILHO, J. V. A wavelet-based method for power-line interference removal in ecg signals. Res. Biomed. Eng, v. 34, p. 73–86, 2018.
+<a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2446-47402018000100073">OLIVEIRA, B. R. de; ABREU, C. C. E. de; DUARTE, M. A. Q.; FILHO, J. V. A wavelet-based method for power-line interference removal in ecg signals. Res. Biomed. Eng, v. 34, p. 73–86, 2018.</a>
 
-OLIVEIRA, B. R. de; ABREU, C. C. E. de; DUARTE, M. A. Q.; FILHO, J. V. Geometrical features for premature ventricular contraction recognition with analytic hierarchy process based machine learning algorithms selection. Comp. Methods and Programs in Bio., v. 169, p. 59–69, 2019.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260718312434">OLIVEIRA, B. R. de; ABREU, C. C. E. de; DUARTE, M. A. Q.; FILHO, J. V. Geometrical features for premature ventricular contraction recognition with analytic hierarchy process based machine learning algorithms selection. Comp. Methods and Programs in Bio., v. 169, p. 59–69, 2019.</a>
 
 POLIKAR, R. Ensemble based systems in decision making. IEEE Circuits and Systems Magazine, v. 6, n. 3, p. 21–45, Third 2006. ISSN 1531-636X.
 
