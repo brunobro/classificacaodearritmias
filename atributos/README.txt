@@ -1,0 +1,1 @@
+Aqui serão salvos os atributos computados para uso posterior.
