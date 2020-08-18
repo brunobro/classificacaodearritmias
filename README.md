@@ -1,8 +1,11 @@
 # classificacaodearritmias
 <h1>Classificação de Arritmias Cardíacas Utilizando Aprendizado de Máquina</h1>
 
-<p>Neste projeto desenvolvemos um sistema baseado em aprendizado de máquina (machine learning) para reconhecimento de arritmias cardíacas empregando a análise de eletrocardiograma (ECG).
+<p>Neste projeto desenvolvemos um sistema baseado em aprendizado de máquina (machine learning) para reconhecimento de arritmias cardíacas empregando a análise de eletrocardiograma (ECG).</p>
 
+<p>Os vídeo-tutoriais podem ser acessados pelos links <a href="https://www.youtube.com/watch?v=59MmDoDwmDA">Vídeo Parte 1</a> e <a href="https://www.youtube.com/watch?v=XgPUsUtXiIo&t=22s">Vídeo Parte 2</a></p>
+
+<p>
 O projeto é desenvolvido passo a passo, incluindo as etapas de extração de atributos, indução (treinamento) e validação (teste). Também é desenvolvido um sistema que gera páginas html com informações sobre cada batimento cardíaco, o tipo de predição e a probabilidade de certeza dessa predição.
 
 Abaixo seguem alguns links relativos ao conteúdo abordado.
